@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tranen-des-glucks/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tränen des Glücks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-des-glucks/) |
+| **Get License** | [Secure Licensing Rights for Tränen des Glücks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-des-glucks/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `883cf8ddd79207cb20a71972ff3626c15c4cafd276d7038191624bab6f26ffe9` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
