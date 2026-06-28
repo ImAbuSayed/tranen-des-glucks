@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tranen-des-glucks/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tränen des Glücks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-des-glucks/) |
+| **Get License** | [Get a Licensing Quote for Tränen des Glücks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-des-glucks/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tränen des Glücks auf der Haut, wenn du mich berührst
+> Zwei Uhr nachts in der Stadt, zeig mir, wohin du führst
+> 808s in der Brust, aber du bist der Vibe
+> Baby, ich geb' alles auf, solang du bei mir bleibst
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
